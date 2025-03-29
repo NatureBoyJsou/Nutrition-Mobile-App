@@ -1,3 +1,5 @@
+❓Download the Zip File, Import Into Your Power Apps Work/School Environment and Use on Your Mobile Device
+
 🏥Disclaimer: I Am Not a Medical Professional. Consult With Your Dietitian or Physician Before Starting Any New Diets. This App Recommends Particular Protein Values Based on Academic Research But Allows the User to Ultimately Choose to Their Own Values Instead. 
 
 🏇🏻UCF Student Built Mobile Application For COT 6571. Go Knights! 
