@@ -4,13 +4,12 @@
 
 🏇🏻UCF Student Built Mobile Application For COT 6571. Go Knights! 
 
-💾Non-Intrusive: Your Data is Only Saved Locally on Your Device 🍽️Database: 14,000 Food Items (USDA Values) 
+💾Non-Intrusive: Your Data is Only Saved Locally on Your Device 
+
+🍽️Database: 14,000 Food Items (USDA Values) 
 
 📒Journal: Logs Daily Intake of Protein, Carbs, Fat, Calories 
 
 🧮Calculator: Recommended or Custom Daily Protein Intake 
 
 📄Research Backed: Nutritional References Are Included Inside 
-
-💻Open Source: Assets/Code Available for Export/Download Into Other Power Apps Environments on Github (https://github.com/NatureBoyJsou)
-
