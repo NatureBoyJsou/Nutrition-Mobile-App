@@ -2,7 +2,7 @@
 
 🏥Disclaimer: I Am Not a Medical Professional. Consult With Your Dietitian or Physician Before Starting Any New Diets. This App Recommends Particular Protein Values Based on Academic Research But Allows the User to Ultimately Choose to Their Own Values Instead. 
 
-🏇🏻UCF Student Built Mobile Application For COT 6571. Go Knights! 
+🏇🏻UCF Student Built Mobile Application. Go Knights! 
 
 💾Non-Intrusive: Your Data is Only Saved Locally on Your Device 
 
