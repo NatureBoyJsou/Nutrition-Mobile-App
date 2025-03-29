@@ -13,4 +13,7 @@
 🧮Calculator: Recommended or Custom Daily Protein Intake 
 
 📄Research Backed: Nutritional References Are Included Inside 
-![Screenshot 2025-03-29 171021](https://github.com/user-attachments/assets/ae727321-71de-49b4-a857-50d326e79670)
+
+
+
+![Full APP UI](https://github.com/user-attachments/assets/7f31728f-93be-413e-805e-1ed7c3a65ac9)
